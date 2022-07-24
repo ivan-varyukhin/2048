@@ -8,7 +8,7 @@
 
 - игра 2048: `данный репозиторий`
 
-- игра Змейка: `в разработке`
+- игра Змейка: [https://github.com/ivan-varyukhin/Snake](https://github.com/ivan-varyukhin/Snake)
 
 ## Игра 2048
 
